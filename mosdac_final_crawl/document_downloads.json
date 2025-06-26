@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://mosdac.gov.in/rss.xml",
+    "filename": "rss.xml",
+    "local_path": "mosdac_final_crawl\\downloads\\rss.xml",
+    "size_mb": 0.0014410018920898438,
+    "type": "File"
+  },
+  {
+    "url": "https://mosdac.gov.in/apios/osdd.xml",
+    "filename": "osdd.xml",
+    "local_path": "mosdac_final_crawl\\downloads\\osdd.xml",
+    "size_mb": 0.004788398742675781,
+    "type": "File"
+  }
+]

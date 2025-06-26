@@ -1,0 +1,162 @@
+{
+  "url": "https://mosdac.gov.in/internal/catalog-satellite",
+  "depth": 6,
+  "page_type": "internal",
+  "title": "Satellite Catalog",
+  "extracted_content": null,
+  "links": {
+    "internal": [
+      {
+        "href": "https://mosdac.gov.in/",
+        "text": "",
+        "title": "Home",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/mosdac-feedback",
+        "text": "Feedback",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/about-us",
+        "text": "About Us",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/contact-us",
+        "text": "Contact Us",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/copyright-policy",
+        "text": "Copyright Policy",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/data-access-policy",
+        "text": "Data Access Policy",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/hyperlink-policy",
+        "text": "Hyperlink Policy",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/privacy-policy",
+        "text": "Privacy Policy",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/website-policies",
+        "text": "Website Policies",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/terms-conditions",
+        "text": "Terms & Conditions",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/faq-page",
+        "text": "FAQs",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      }
+    ],
+    "external": [
+      {
+        "href": "https://dx.doi.org/",
+        "text": "",
+        "title": "",
+        "base_domain": "doi.org"
+      },
+      {
+        "href": "javascript:void(0);",
+        "text": "",
+        "title": "",
+        "base_domain": ""
+      },
+      {
+        "href": "http://www.isro.gov.in",
+        "text": "",
+        "title": "",
+        "base_domain": "isro.gov.in"
+      },
+      {
+        "href": "http://www.sac.gov.in",
+        "text": "",
+        "title": "",
+        "base_domain": "sac.gov.in"
+      },
+      {
+        "href": "http://www.india.gov.in",
+        "text": "",
+        "title": "",
+        "base_domain": "india.gov.in"
+      },
+      {
+        "href": "http://mygov.in/",
+        "text": "",
+        "title": "",
+        "base_domain": "mygov.in"
+      },
+      {
+        "href": "http://www.digitalindia.gov.in/",
+        "text": "",
+        "title": "",
+        "base_domain": "digitalindia.gov.in"
+      },
+      {
+        "href": "http://data.gov.in",
+        "text": "",
+        "title": "",
+        "base_domain": "data.gov.in"
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://mosdac.gov.in/sites/default/files/mosdac_small.png",
+        "data": "",
+        "alt": "Home",
+        "desc": "संग्रहीत\n\t\t\t\t\t\tउत्पाद सूची Satellite Catalog",
+        "score": 4,
+        "type": "image",
+        "group_id": 0,
+        "format": "png",
+        "width": null
+      },
+      {
+        "src": "https://mosdac.gov.in/sites/default/files/styles/thumbnail/public/india-gov_0.png?itok=yssAPH3m",
+        "data": "",
+        "alt": "NationalPortal",
+        "desc": ">",
+        "score": 3,
+        "type": "image",
+        "group_id": 3,
+        "format": "png",
+        "width": null
+      }
+    ],
+    "videos": [],
+    "audios": []
+  },
+  "metadata": {
+    "title": "Satellite Catalog",
+    "description": null,
+    "keywords": null,
+    "author": null
+  },
+  "crawl_timestamp": "2025-06-26 13:27:19"
+}

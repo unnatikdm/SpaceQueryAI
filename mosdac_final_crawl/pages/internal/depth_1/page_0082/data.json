@@ -1,0 +1,37 @@
+{
+  "url": "https://mosdac.gov.in/internal/ocean",
+  "depth": 1,
+  "page_type": "internal",
+  "title": "MOSDAC Live",
+  "extracted_content": null,
+  "links": {
+    "internal": [
+      {
+        "href": "https://mosdac.gov.in/live/index_one.php?url_name=ocean/",
+        "text": "",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      }
+    ],
+    "external": [
+      {
+        "href": "https://openlayers.org/",
+        "text": "",
+        "title": "",
+        "base_domain": "openlayers.org"
+      }
+    ]
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "audios": []
+  },
+  "metadata": {
+    "title": "MOSDAC Live",
+    "description": "MOSDAC-LIVE is a web enabled data and Information visualization and analysis system of MOSDAC, SAC/ISRO. Provides access to Satellite Data Products and Information products derived from Satellite and model forecast in near real time basis.",
+    "keywords": "Forecast, Nowcast, Current Events, Near Real time,  Cloud cover, Surface winds, Fire, Heavy rain, RIP current, Snow, Cloud Burst, Heat Wave, Cold Wave, INSAT-3D, INSAT-3DR, Kalpana-1, SCATSAT-1",
+    "author": null
+  },
+  "crawl_timestamp": "2025-06-26 13:28:36"
+}

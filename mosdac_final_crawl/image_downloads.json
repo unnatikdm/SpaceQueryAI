@@ -1,0 +1,219 @@
+[
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/mosdac_small.png",
+    "filename": "mosdac_small.png",
+    "local_path": "mosdac_final_crawl\\images\\mosdac_small.png",
+    "is_priority": false,
+    "alt_text": "home"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/app-thumbs/public/field/image/weather.jpg?itok=me1X6l-u",
+    "filename": "weather.jpg",
+    "local_path": "mosdac_final_crawl\\product_images\\weather.jpg",
+    "is_priority": true,
+    "alt_text": "weather forecast"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/app-thumbs/public/field/image/coldwave.jpg?itok=lmF4zeLb",
+    "filename": "coldwave.jpg",
+    "local_path": "mosdac_final_crawl\\product_images\\coldwave.jpg",
+    "is_priority": true,
+    "alt_text": "cold waves"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/app-thumbs/public/field/image/waves.jpg?itok=FH2Y2Kx5",
+    "filename": "waves.jpg",
+    "local_path": "mosdac_final_crawl\\product_images\\waves.jpg",
+    "is_priority": true,
+    "alt_text": "heat waves"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/app-thumbs/public/field/image/rainfall_0.jpg?itok=lnMS05Ux",
+    "filename": "rainfall_0.jpg",
+    "local_path": "mosdac_final_crawl\\product_images\\rainfall_0.jpg",
+    "is_priority": true,
+    "alt_text": "heavyrain forecast"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/app-thumbs/public/field/image/light.jpg?itok=HG-EInNU",
+    "filename": "light.jpg",
+    "local_path": "mosdac_final_crawl\\product_images\\light.jpg",
+    "is_priority": true,
+    "alt_text": "lightning"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/app-thumbs/public/field/image/download.jpg?itok=DUCkXdHK",
+    "filename": "download.jpg",
+    "local_path": "mosdac_final_crawl\\product_images\\download.jpg",
+    "is_priority": true,
+    "alt_text": "monsoon prediction"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/app-thumbs/public/field/image/sea-state.jpg?itok=eojilMxA",
+    "filename": "sea-state.jpg",
+    "local_path": "mosdac_final_crawl\\product_images\\sea-state.jpg",
+    "is_priority": true,
+    "alt_text": "sea state forecast"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/app-thumbs/public/field/image/energy.jpg?itok=cH0XNUWK",
+    "filename": "energy.jpg",
+    "local_path": "mosdac_final_crawl\\product_images\\energy.jpg",
+    "is_priority": true,
+    "alt_text": "solar & wind"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/app-thumbs/public/field/image/cloud-burst.jpeg?itok=GS9Yo886",
+    "filename": "cloud-burst.jpeg",
+    "local_path": "mosdac_final_crawl\\product_images\\cloud-burst.jpeg",
+    "is_priority": true,
+    "alt_text": "cloud burst nowcast alerts"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/app-thumbs/public/field/image/rainyseason.jpeg?itok=n7H5GxSp",
+    "filename": "rainyseason.jpeg",
+    "local_path": "mosdac_final_crawl\\product_images\\rainyseason.jpeg",
+    "is_priority": true,
+    "alt_text": "heavy rain nowcast"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/app-thumbs/public/field/image/aws-time-series.PNG?itok=hox5zRJF",
+    "filename": "aws-time-series.PNG",
+    "local_path": "mosdac_final_crawl\\product_images\\aws-time-series.PNG",
+    "is_priority": true,
+    "alt_text": "aws time series"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/app-thumbs/public/field/image/heavyrain_event.jpg?itok=lrcgAqkg",
+    "filename": "heavyrain_event.jpg",
+    "local_path": "mosdac_final_crawl\\product_images\\heavyrain_event.jpg",
+    "is_priority": true,
+    "alt_text": "heavy rain events"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/app-thumbs/public/field/image/live.png?itok=L3bGLC2g",
+    "filename": "live.png",
+    "local_path": "mosdac_final_crawl\\product_images\\live.png",
+    "is_priority": true,
+    "alt_text": "mosdac-live"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/app-thumbs/public/field/image/indian-states_0.png?itok=I3lp0ef2",
+    "filename": "indian-states_0.png",
+    "local_path": "mosdac_final_crawl\\product_images\\indian-states_0.png",
+    "is_priority": true,
+    "alt_text": "indian state"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/app-thumbs/public/field/image/saarc.png?itok=hVJmY4KF",
+    "filename": "saarc.png",
+    "local_path": "mosdac_final_crawl\\product_images\\saarc.png",
+    "is_priority": true,
+    "alt_text": "south east asian"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/app-thumbs/public/field/image/urjaService.png?itok=1yEEoyOY",
+    "filename": "urjaService.png",
+    "local_path": "mosdac_final_crawl\\product_images\\urjaService.png",
+    "is_priority": true,
+    "alt_text": "urja image"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/app-thumbs/public/field/image/rainfall.jpg?itok=U6xL3U-d",
+    "filename": "rainfall.jpg",
+    "local_path": "mosdac_final_crawl\\product_images\\rainfall.jpg",
+    "is_priority": true,
+    "alt_text": "rainfall"
+  },
+  {
+    "url": "https://mosdac.gov.in/misc/arrow-desc.png",
+    "filename": "arrow-desc.png",
+    "local_path": "mosdac_final_crawl\\images\\arrow-desc.png",
+    "is_priority": false,
+    "alt_text": "sort descending"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/atlas_thumbs_big_/public/flipdoc_covers/Exploring-Antarctic.jpg?itok=RmYU5DYp",
+    "filename": "Exploring-Antarctic.jpg",
+    "local_path": "mosdac_final_crawl\\images\\Exploring-Antarctic.jpg",
+    "is_priority": false,
+    "alt_text": "exploringantarctic"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/atlas_thumbs_big_/public/flipdoc_covers/ocean-from-space.jpg?itok=2eu_TYz0",
+    "filename": "ocean-from-space.jpg",
+    "local_path": "mosdac_final_crawl\\images\\ocean-from-space.jpg",
+    "is_priority": false,
+    "alt_text": "ocean-from-space-cover"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/atlas_thumbs_big_/public/flipdoc_covers/wave-atlas.jpg?itok=jCC_aeos",
+    "filename": "wave-atlas.jpg",
+    "local_path": "mosdac_final_crawl\\images\\wave-atlas.jpg",
+    "is_priority": false,
+    "alt_text": "wave-atlas-cover"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/atlas_thumbs_big_/public/flipdoc_covers/Coral.jpg?itok=8XwnYCkB",
+    "filename": "Coral.jpg",
+    "local_path": "mosdac_final_crawl\\images\\Coral.jpg",
+    "is_priority": false,
+    "alt_text": "coral"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/atlas_thumbs_big_/public/flipdoc_covers/Aviris.jpg?itok=8ipGAU8m",
+    "filename": "Aviris.jpg",
+    "local_path": "mosdac_final_crawl\\images\\Aviris.jpg",
+    "is_priority": false,
+    "alt_text": "aviris-ng"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/atlas_thumbs_big_/public/flipdoc_covers/RISAT-1.jpg?itok=ccAr8Z05",
+    "filename": "RISAT-1.jpg",
+    "local_path": "mosdac_final_crawl\\images\\RISAT-1.jpg",
+    "is_priority": false,
+    "alt_text": "risat-1"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/atlas_thumbs_big_/public/flipdoc_covers/Mars.jpg?itok=Z29GFz5a",
+    "filename": "Mars.jpg",
+    "local_path": "mosdac_final_crawl\\images\\Mars.jpg",
+    "is_priority": false,
+    "alt_text": "mars"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/atlas_thumbs_big_/public/flipdoc_covers/lunar.jpg?itok=TAwPHVX_",
+    "filename": "lunar.jpg",
+    "local_path": "mosdac_final_crawl\\images\\lunar.jpg",
+    "is_priority": false,
+    "alt_text": "lunar"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/atlas_thumbs_big_/public/flipdoc_covers/Sea-Ice.jpg?itok=v_pPp39W",
+    "filename": "Sea-Ice.jpg",
+    "local_path": "mosdac_final_crawl\\images\\Sea-Ice.jpg",
+    "is_priority": false,
+    "alt_text": "sea ice trends"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/atlas_thumbs_big_/public/flipdoc_covers/moon.jpg?itok=Y7g8LrvB",
+    "filename": "moon.jpg",
+    "local_path": "mosdac_final_crawl\\images\\moon.jpg",
+    "is_priority": false,
+    "alt_text": "moon"
+  },
+  {
+    "url": "https://mosdac.gov.in/misc/arrow-asc.png",
+    "filename": "arrow-asc.png",
+    "local_path": "mosdac_final_crawl\\images\\arrow-asc.png",
+    "is_priority": false,
+    "alt_text": "sort ascending"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/styles/thumbnail/public/india-gov_0.png?itok=yssAPH3m",
+    "filename": "india-gov_0.png",
+    "local_path": "mosdac_final_crawl\\images\\india-gov_0.png",
+    "is_priority": false,
+    "alt_text": "nationalportal"
+  }
+]

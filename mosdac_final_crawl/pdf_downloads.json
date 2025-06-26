@@ -1,0 +1,51 @@
+[
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/docs/INSAT_Product_Version_information_V01.pdf",
+    "filename": "INSAT_Product_Version_information_V01.pdf",
+    "local_path": "mosdac_final_crawl\\pdfs\\INSAT_Product_Version_information_V01.pdf",
+    "size_mb": 1.6146984100341797,
+    "type": "PDF"
+  },
+  {
+    "url": "https://mosdac.gov.in/docs/STQC.pdf",
+    "filename": "STQC.pdf",
+    "local_path": "mosdac_final_crawl\\pdfs\\STQC.pdf",
+    "size_mb": 0.45171260833740234,
+    "type": "PDF"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202024.pdf",
+    "filename": "Onset%20Prediction%202024.pdf",
+    "local_path": "mosdac_final_crawl\\pdfs\\Onset%20Prediction%202024.pdf",
+    "size_mb": 0.745936393737793,
+    "type": "PDF"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/docs/Onset%20Prediction%202023.pdf",
+    "filename": "Onset%20Prediction%202023.pdf",
+    "local_path": "mosdac_final_crawl\\pdfs\\Onset%20Prediction%202023.pdf",
+    "size_mb": 0.45229339599609375,
+    "type": "PDF"
+  },
+  {
+    "url": "https://mosdac.gov.in/sites/default/files/docs/sftp-mosdac_0.pdf",
+    "filename": "sftp-mosdac_0.pdf",
+    "local_path": "mosdac_final_crawl\\pdfs\\sftp-mosdac_0.pdf",
+    "size_mb": 0.33919239044189453,
+    "type": "PDF"
+  },
+  {
+    "url": "https://mosdac.gov.in/look/DOCS/mosdac-data-guidelines_english.pdf",
+    "filename": "mosdac-data-guidelines_english.pdf",
+    "local_path": "mosdac_final_crawl\\pdfs\\mosdac-data-guidelines_english.pdf",
+    "size_mb": 0.31504154205322266,
+    "type": "PDF"
+  },
+  {
+    "url": "https://mosdac.gov.in/look/DOCS/mosdac-data-guidelines.pdf",
+    "filename": "mosdac-data-guidelines.pdf",
+    "local_path": "mosdac_final_crawl\\pdfs\\mosdac-data-guidelines.pdf",
+    "size_mb": 0.4048137664794922,
+    "type": "PDF"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "url": "https://mosdac.gov.in/internal/oilspill",
+  "depth": 1,
+  "page_type": "internal",
+  "title": "OILSPILL",
+  "extracted_content": null,
+  "links": {
+    "internal": [
+      {
+        "href": "https://mosdac.gov.in/oilspill/assets/documents/Description-LCS-Cores.pdf",
+        "text": "Description-LCS-Cores.pdf",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/oilspill/",
+        "text": "",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      }
+    ],
+    "external": []
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "audios": []
+  },
+  "metadata": {
+    "title": "OILSPILL",
+    "description": null,
+    "keywords": null,
+    "author": null
+  },
+  "crawl_timestamp": "2025-06-26 13:30:11"
+}

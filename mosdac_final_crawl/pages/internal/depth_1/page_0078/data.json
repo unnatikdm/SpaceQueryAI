@@ -1,0 +1,30 @@
+{
+  "url": "https://mosdac.gov.in/internal/ocean-eye",
+  "depth": 1,
+  "page_type": "internal",
+  "title": null,
+  "extracted_content": null,
+  "links": {
+    "internal": [
+      {
+        "href": "https://mosdac.gov.in/sci/",
+        "text": "",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      }
+    ],
+    "external": []
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "audios": []
+  },
+  "metadata": {
+    "title": null,
+    "description": null,
+    "keywords": null,
+    "author": null
+  },
+  "crawl_timestamp": "2025-06-26 13:28:29"
+}

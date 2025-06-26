@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><os:OpenSearchDescription xmlns:os="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:echo="http://www.echo.nasa.gov/esip" xmlns:eo="http://a9.com/-/opensearch/extensions/eo/1.0/" xmlns:esipdiscovery="http://commons.esipfed.org/ns/discovery/1.2/" xmlns:geo="http://a9.com/-/opensearch/extensions/geo/1.0/" xmlns:params="http://a9.com/-/spec/opensearch/extensions/parameters/1.0/" xmlns:referrer="http://www.opensearch.org/Specifications/OpenSearch/Extensions/Referrer/1.0" xmlns:time="http://a9.com/-/opensearch/extensions/time/1.0/" esipdiscovery:version="1.2"> 	
+    <os:ShortName>MOSDAC OS</os:ShortName>
+    <os:Description>MOSDAC Dataset search using geo, time and parameter extensions</os:Description>
+    <os:Tags>ISRO SAC MOSDAC dataset</os:Tags>
+    <os:Contact>admin@sac.isro.gov.in</os:Contact>
+    <os:Url params:method="GET" rel="results" template="https://mosdac.gov.in/apios/datasets.atom?datasetId={geo:name}&amp;boundingBox={geo:box?}&amp;startTime={time:start?}&amp;endTime={time:end?}&amp;startIndex={os:startPage?}&amp;count={os:count?}&amp;gId={geo:uid?}&amp;clientId={referrer:source?}" type="application/atom+xml">
+        <params:Parameter maximum="1" minimum="1" name="datasetId" title="Standard Products archived at MOSDAC registered at GCMD" uiDisplay="Dataset ID" value="{geo:name}"/>
+        <params:Parameter minimum="0" name="boundingBox" title="spatial extent overlapping this bound box WEST-LONG, SOUTH-LAT, EAST-LONG, NORTH-LAT" uiDisplay="Bounding box" value="{geo:box}"/>
+        <params:Parameter minimum="0" name="startTime" title="temporal extent containing this start time. The string should match 'YYYY-MM-DD" uiDisplay="Start time" value="{time:start}"/>
+        <params:Parameter minimum="0" name="endTime" title="temporal extent containing this end time. The string should match 'YYYY-MM-DD" uiDisplay="End time" value="{time:end}"/>
+        <params:Parameter minInclusive="1" minimum="0" name="startIndex" title="Index number of search results desired by client" uiDisplay="Start index" value="{startPage}"/>
+        <params:Parameter maxInclusive="50" minInclusive="1" minimum="0" name="count" title="Number of Results per query allowed(Default is 20)" uiDisplay="Number of results" value="{count}"/>
+        <params:Parameter name="clientId" title="ClientId" uiDisplay="Client ID" value="{referrer:source}"/>
+        <params:Parameter name="gId" title="Granule Unique Id" uiDisplay="Granule ID" value="{geo:uid}"/>
+    </os:Url>
+    <os:Query geo:box="-180.0,-90.0,180.0,90.0" geo:name="3DIMG_L2B_CMK" role="example" startPage="1" title="Sample search granules"/>
+    <os:Url params:method="GET" rel="collection" template="https://mosdac.gov.in/apios/collections.atom?keyword={os:searchTerms?}&amp;instrument={echo:instrument?}&amp;satellite={eo:platform?}&amp;boundingBox={geo:box?}&amp;startTime={time:start?}&amp;endTime={time:end?}&amp;startIndex={os:startPage?}&amp;count={os:count?}&amp;clientId={referrer:source?}" type="application/atom+xml">
+        <params:Parameter minimum="0" name="keyword" title="Inventory with terms expressed by these search terms" uiDisplay="Keyword" value="{os:searchTerms}"/>
+        <params:Parameter minimum="0" name="instrument" title="Inventory associated with a satellite instrument expressed by this short name" uiDisplay="Instrument" value="{echo:instrument}"/>
+        <params:Parameter minimum="0" name="satellite" title="Inventory associated with a Satellite/platform expressed by this short name" uiDisplay="Satellite" value="{eo:platform}"/>
+        <params:Parameter minimum="0" name="boundingBox" title="Inventory with a spatial extent overlapping this bounding box" uiDisplay="Bounding box" value="{geo:box}"/>
+        <params:Parameter minimum="0" name="startTime" title="Inventory with a temporal extent containing this start time. The string should match 'YYYY-MM-DD'" uiDisplay="Start time" value="{time:start}"/>
+        <params:Parameter minimum="0" name="endTime" title="Inventory with a temporal extent containing this end time.  The string should match 'YYYY-MM-DD'" uiDisplay="End time" value="{time:end}"/>
+        <params:Parameter minInclusive="1" minimum="0" name="startIndex" title="Index number of search results desired by client" uiDisplay="Start Index" value="{startPage}"/>
+        <params:Parameter maxInclusive="50" minInclusive="1" minimum="0" name="count" title="Number of Results per query allowed(Default is 20)" uiDisplay="Number of results" value="{count}"/>
+        <params:Parameter minimum="0" name="clientId" title="Client identifier to be used for metrics" uiDisplay="Client ID" value="{referrer:source}"/>
+    </os:Url>
+    <os:Query geo:box="-180.0,-90.0,180.0,90.0" role="example" startPage="1" title="Sample search collection"/>
+    <os:Attribution>MOSDAC</os:Attribution>
+    <os:SyndicationRight>open</os:SyndicationRight>
+</os:OpenSearchDescription>

@@ -1,0 +1,54 @@
+{
+  "url": "https://mosdac.gov.in/internal/forecast-menu",
+  "depth": 6,
+  "page_type": "internal",
+  "title": "Log in to MOSDAC Single Sign ON",
+  "extracted_content": null,
+  "links": {
+    "internal": [
+      {
+        "href": "https://mosdac.gov.in",
+        "text": "Home (मुख पृष्ठ)",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/auth/realms/Mosdac/protocol/openid-connect/auth?response_type=code&scope=openid%20email&client_id=mosdac&state=yjEzNqBU1fBExonR00axH5jVW-8&redirect_uri=https%3A%2F%2Fmosdac.gov.in%2Fuops%2Fredirect_uri&nonce=D3JqgJ20yet3MAApVrcxm7a02pitZEDeXrpqcKkRflE/",
+        "text": "English",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/auth/realms/Mosdac/login-actions/authenticate?client_id=mosdac&tab_id=BAWo3Eucl_8&execution=9df053f1-55e1-4d2c-b1ae-a86b988114ed&kc_locale=hi",
+        "text": "Hindi",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/auth/realms/Mosdac/login-actions/authenticate?client_id=mosdac&tab_id=BAWo3Eucl_8&execution=9df053f1-55e1-4d2c-b1ae-a86b988114ed&kc_locale=en",
+        "text": "English",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/auth/realms/Mosdac/login-actions/reset-credentials?client_id=mosdac&tab_id=BAWo3Eucl_8",
+        "text": "Forgot Password?",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      }
+    ],
+    "external": []
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "audios": []
+  },
+  "metadata": {
+    "title": "Log in to MOSDAC Single Sign ON",
+    "description": null,
+    "keywords": null,
+    "author": null
+  },
+  "crawl_timestamp": "2025-06-26 13:27:03"
+}

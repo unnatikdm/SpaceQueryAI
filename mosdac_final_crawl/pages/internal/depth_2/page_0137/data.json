@@ -1,0 +1,487 @@
+{
+  "url": "https://mosdac.gov.in/internal/img/settings_white.svg",
+  "depth": 2,
+  "page_type": "internal",
+  "title": "Meteorological & Oceanographic Satellite Data Archival Centre",
+  "extracted_content": null,
+  "links": {
+    "internal": [
+      {
+        "href": "https://mosdac.gov.in/internal/img/settings_white.svg/#main-content",
+        "text": "Skip to main Content",
+        "title": "Skip to main Content",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/internal/registration",
+        "text": "SignUp",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/internal/uops",
+        "text": "Login",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/internal/logout",
+        "text": "Logout",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/",
+        "text": "",
+        "title": "Home",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/internal/img/settings_white.svg/",
+        "text": "Missions »",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/insat-3dr",
+        "text": "INSAT-3DR",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/insat-3d",
+        "text": "INSAT-3D",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/kalpana-1",
+        "text": "KALPANA-1",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/insat-3a",
+        "text": "INSAT-3A",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/megha-tropiques",
+        "text": "MeghaTropiques",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/saral-altika",
+        "text": "SARAL-AltiKa",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/oceansat-2",
+        "text": "OCEANSAT-2",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/oceansat-3",
+        "text": "OCEANSAT-3",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/insat-3ds",
+        "text": "INSAT-3DS",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/scatsat-1",
+        "text": "SCATSAT-1",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/internal/catalog-satellite",
+        "text": "Satellite",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/internal/catalog-insitu",
+        "text": "Insitu (AWS)",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/internal/catalog-radar",
+        "text": "RADAR",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/internal/gallery",
+        "text": "Satellite Products",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/internal/gallery/weather",
+        "text": "Weather Forecast",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/internal/gallery/ocean",
+        "text": "Ocean Forecast",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/internal/gallery/dwr",
+        "text": "RADAR (DWR)",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/internal/gallery/current",
+        "text": "Global Ocean Current",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/bayesian-based-mt-saphir-rainfall",
+        "text": "Bayesian based MT-SAPHIR rainfall",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/gps-derived-integrated-water-vapour",
+        "text": "GPS derived Integrated water vapour",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/gsmap-isro-rain",
+        "text": "GSMap ISRO Rain",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/meteosat8-cloud-properties",
+        "text": "METEOSAT8 Cloud Properties",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/3d-volumetric-terls-dwrproduct",
+        "text": "3D Volumetric TERLS DWRproduct",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/inland-water-height",
+        "text": "Inland Water Height",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/river-discharge",
+        "text": "River Discharge",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/soil-moisture-0",
+        "text": "Soil Moisture",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/global-ocean-surface-current",
+        "text": "Global Ocean Surface Current",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/high-resolution-sea-surface-salinity",
+        "text": "High Resolution Sea Surface Salinity",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/indian-mainland-coastal-product",
+        "text": "Indian Mainland Coastal Product",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/ocean-subsurface",
+        "text": "Ocean Subsurface",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/oceanic-eddies-detection",
+        "text": "Oceanic Eddies Detection",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/sea-ice-occurrence-probability",
+        "text": "Sea Ice Occurrence Probability",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/wave-based-renewable-energy",
+        "text": "Wave based Renewable Energy",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/internal/calval-data",
+        "text": "Cal-Val",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/internal/forecast-menu",
+        "text": "Forecast",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/rss-feed",
+        "text": "RSS Feeds",
+        "title": "ISROCast",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/insitu",
+        "text": "Insitu",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/calibration-reports",
+        "text": "Relative",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/validation-reports",
+        "text": "Validation",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/data-quality",
+        "text": "Data Quality",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/weather-reports",
+        "text": "Weather",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/atlases",
+        "text": "Atlases",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/tools",
+        "text": "Tools",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/sitemap",
+        "text": "Sitemap",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/help",
+        "text": "Help",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/rss.xml",
+        "text": "",
+        "title": "RSS",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/docs/STQC.pdf",
+        "text": "",
+        "title": "Quality Certificate",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/mosdac-feedback",
+        "text": "Feedback",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/about-us",
+        "text": "About Us",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/contact-us",
+        "text": "Contact Us",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/copyright-policy",
+        "text": "Copyright Policy",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/data-access-policy",
+        "text": "Data Access Policy",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/hyperlink-policy",
+        "text": "Hyperlink Policy",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/privacy-policy",
+        "text": "Privacy Policy",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/website-policies",
+        "text": "Website Policies",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/terms-conditions",
+        "text": "Terms & Conditions",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/faq-page",
+        "text": "FAQs",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/internal/img/settings_white.svg/#top",
+        "text": "Back to top",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      }
+    ],
+    "external": [
+      {
+        "href": "javascript:;",
+        "text": "-A",
+        "title": "",
+        "base_domain": ""
+      },
+      {
+        "href": "javascript:drupalHighContrast.enableStyles()",
+        "text": "A",
+        "title": "",
+        "base_domain": ""
+      },
+      {
+        "href": "javascript:drupalHighContrast.disableStyles()",
+        "text": "A",
+        "title": "",
+        "base_domain": ""
+      },
+      {
+        "href": "https://www.facebook.com/mosdac.sac.isro",
+        "text": "",
+        "title": "Facebook",
+        "base_domain": "facebook.com"
+      },
+      {
+        "href": "http://www.youtube.com/channel/UCDVkai9WIgY2ZgrlF_08Yeg",
+        "text": "",
+        "title": "Youtube (Channel)",
+        "base_domain": "youtube.com"
+      },
+      {
+        "href": "http://www.isro.gov.in",
+        "text": "",
+        "title": "",
+        "base_domain": "isro.gov.in"
+      },
+      {
+        "href": "http://www.sac.gov.in",
+        "text": "",
+        "title": "",
+        "base_domain": "sac.gov.in"
+      },
+      {
+        "href": "http://www.india.gov.in",
+        "text": "",
+        "title": "",
+        "base_domain": "india.gov.in"
+      },
+      {
+        "href": "http://mygov.in/",
+        "text": "",
+        "title": "",
+        "base_domain": "mygov.in"
+      },
+      {
+        "href": "http://www.digitalindia.gov.in/",
+        "text": "",
+        "title": "",
+        "base_domain": "digitalindia.gov.in"
+      },
+      {
+        "href": "http://data.gov.in",
+        "text": "",
+        "title": "",
+        "base_domain": "data.gov.in"
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://mosdac.gov.in/sites/default/files/mosdac_small.png",
+        "data": "",
+        "alt": "Home",
+        "desc": "Secondary menu SignUp Login Logout Meteorological & Oceanographic Satellite Data Archival Centre Space Applications Centre, ISRO",
+        "score": 4,
+        "type": "image",
+        "group_id": 0,
+        "format": "png",
+        "width": null
+      }
+    ],
+    "videos": [],
+    "audios": []
+  },
+  "metadata": {
+    "title": "Meteorological & Oceanographic Satellite Data Archival Centre",
+    "description": "Meteorological and Oceanographic Satellite Data Archival Centre (MOSDAC) is a Data Centre of Space Applications Centre (SAC) for satellite data reception, processing, analysis and dissemination.",
+    "keywords": "Meteorological, Oceanographic, Satellite, Data, Archival, Data Centre",
+    "author": null
+  },
+  "crawl_timestamp": "2025-06-26 13:29:57"
+}

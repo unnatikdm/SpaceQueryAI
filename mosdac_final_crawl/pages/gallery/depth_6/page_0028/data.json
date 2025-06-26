@@ -1,0 +1,30 @@
+{
+  "url": "https://mosdac.gov.in/internal/gallery/weather",
+  "depth": 6,
+  "page_type": "gallery",
+  "title": "MOSDAC Gallery",
+  "extracted_content": null,
+  "links": {
+    "internal": [
+      {
+        "href": "https://mosdac.gov.in/gallery/index.html?ds=weather/",
+        "text": "",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      }
+    ],
+    "external": []
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "audios": []
+  },
+  "metadata": {
+    "title": "MOSDAC Gallery",
+    "description": "MOSDAC Gallery",
+    "keywords": "MOSDAC Gallery,INSAT-3D,INSAT-3DR,INSAT-3DS,EOS-06,EOS-07,Megha-Tropiques,SARAL,Kalpana-1,INSAT-3A,OCEANSAT-2",
+    "author": null
+  },
+  "crawl_timestamp": "2025-06-26 13:27:12"
+}

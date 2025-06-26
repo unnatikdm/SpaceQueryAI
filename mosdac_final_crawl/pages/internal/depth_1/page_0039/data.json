@@ -1,0 +1,43 @@
+{
+  "url": "https://mosdac.gov.in/internal/eddy",
+  "depth": 1,
+  "page_type": "internal",
+  "title": null,
+  "extracted_content": null,
+  "links": {
+    "internal": [
+      {
+        "href": "https://mosdac.gov.in/eddy/assets/documents/mosdac_eddy_detection.pdf",
+        "text": "Eddy Detection and Tracking",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      },
+      {
+        "href": "https://mosdac.gov.in/eddy/",
+        "text": "",
+        "title": "",
+        "base_domain": "mosdac.gov.in"
+      }
+    ],
+    "external": [
+      {
+        "href": "https://doi.org/10.48670/moi-00149",
+        "text": "https://doi.org/10.48670/moi-00149",
+        "title": "",
+        "base_domain": "doi.org"
+      }
+    ]
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "audios": []
+  },
+  "metadata": {
+    "title": null,
+    "description": null,
+    "keywords": null,
+    "author": null
+  },
+  "crawl_timestamp": "2025-06-26 13:27:31"
+}

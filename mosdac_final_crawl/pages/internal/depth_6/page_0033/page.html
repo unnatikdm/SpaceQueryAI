@@ -1,0 +1,123 @@
+<!DOCTYPE html><html><head><style type="text/css">
+  
+.header{
+    width: 400px;
+    height: 400px;
+    background: rgba(161,197,232);
+    box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.5) !important;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+}
+#logout{
+    position: absolute;
+    top: 51px;
+    right: 0;
+    margin: auto;
+    position: relative;
+    height: auto;
+    width: 69%;
+    text-align: center;
+    color: #f5f5f5;
+    padding: 16px;
+    font-size: 18px;
+    background: #095cb1;
+}
+#message{
+    top: 71px;
+    right: 0;
+    margin: auto;
+    position: relative;
+    height: auto;
+    width: 69%;
+    text-align: center;
+    color: red;
+    padding: 16px;
+    font-size: 14px;
+}
+
+.login{
+    position: absolute;
+    top: 151px;
+    right: 0;
+    margin: auto;
+    position: relative;
+    height: auto;
+    width: 69%;
+    text-align: center;
+    color: #f5f5f5;
+    padding: 16px;
+    font-size: 18px;
+}
+@media screen and (max-width: 440px){
+   .login{
+      right: 7px;
+      left: 7px;
+      margin: auto;
+   }
+}
+</style>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MOSDAC SSO Logout</title>
+</head>
+<body onload="cacheExpire();">
+<!--<body>-->
+
+
+   <div class="header">
+<br>
+<a style="text-align: right; margin-left: 275px" href="https://mosdac.gov.in">Home (मुख पृष्ठ)</a>
+  <div style="text-align:center;font-size:24px;margin-top:15px;">
+<label style="text-align:center;    font-size: 16px;    font-weight: 700;    font-family: Open sans-serif;">मॉस्डैक सिंगल-साइन-ऑन  (एसएसओ)   </label>
+<br><label style="text-align:center;    font-size: 16px;font-weight: 700; font-family: Open sans-serif;">MOSDAC Single-Sign-On (SSO)</label></div>  
+   <div id="logout">आप लॉग आउट हो गए हैं  <br>You are logged out</div>
+   <!--<div id="message"></div>-->
+<!--   <div class="login"><a href="/" style="color: black">Continue to MOSDAC home.</a></div> -->
+<p style="text-align: center;margin-top: 90px;margin-left:15px;margin-right:15px"><span style="font-size: small;color: black;">मॉस्डैक, अंतरिक्ष उपयोग केंद्र, इसरो, भारत सरकार द्वारा निर्मित और संचालित</span></p>
+<p style="text-align: center;font-size: small;color: black;margin-left:20px;margin-right:20px"><strong>Owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.</strong></p><strong>
+   </strong></div><strong>    
+   <script type="text/javascript">
+function cacheExpire(){
+	var url = "/uops/redirect_uri?logout=get";
+	var xmlhttp = new XMLHttpRequest();
+	xmlhttp.onreadystatechange = function(){
+	if(xmlhttp.readyState == 4 && xmlhttp.status == 200){
+	       // alert(xmlhttp.responseText);
+	//	document.getElementById('message').innerHTML=xmlhttp.responseText;
+		var cookies = document.cookie.split(";");
+		for(var i =0; i<cookies.length; i++){
+			var cookie = cookies[i];
+			var eqPos = cookie.indexOf("=");
+			var name = eqPos > -1 ? cookie.substr(0,eqPos) : cookie;
+			document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT";
+		}
+
+	        //console.log("document.cookie:- ",document.cookie);
+	        //console.log("location.href:- ",location.href);
+	        history.pushState(null,null,location.href);
+	        history.back();
+	        history.forward();
+	window.onpopstate=function(event) {
+	//	console.log('location: ',document.location,', state: ',event);
+	//      console.log("In onpopstate:- ");
+		history.go(1);
+		history.forward();
+	};
+
+	        document.getElementById('logout').innerHTML ="आप लॉग आउट हो गए हैं  <br>You are logged out"; 
+		}else{
+	//		document.getElementById('message').innerHTML=xmlhttp.responseText;
+		}
+	}
+	xmlhttp.open('GET',url,false);
+	xmlhttp.send(null);
+}
+   </script>     
+
+ 
+</strong></body></html>
